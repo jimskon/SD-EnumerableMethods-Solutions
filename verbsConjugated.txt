@@ -1,5 +1,3 @@
-
-present plural,present singular,present participle,past,
 convolute,convolutes,convoluting,convoluted,convoluted
 fawn,fawns,fawning,fawned,fawned
 foul,fouls,fouling,fouled,fouled
